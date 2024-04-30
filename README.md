@@ -3,6 +3,11 @@
 <!--
 **eogabis/eogabis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+  <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eogabis&layout=compact&langs_count=16&theme=calm"/>
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
